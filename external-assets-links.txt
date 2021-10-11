@@ -1,0 +1,6 @@
+
+010 AWS-Resource-and-Property-Types-Reference
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html
+
+015 AWS-Resource-and-Property-Types-Reference
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html
